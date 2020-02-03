@@ -1,0 +1,9 @@
+그녀/NP 는/JX 반/NNG 에서/JKB 가장/MAG 어리/VA 다/EF ./SF
+그/NP 는/JX 몸/NNG 이/JKS 아주/MAG 멋져/VA+EF ./SF
+그/NP 는/JX 나/NP 보다/JKB 먼저/MAG 도착/NNG 했/XSV+EP 다/EF ./SF
+부탁/NNG 하나/NR 해도/VV+EC 되/VV 겠/EP 니/EF ?/SF
+그녀/NP 가/JKS 그것/NP 이/JKS 무슨/MM 뜻/NNG 인지/VCP+EC 를/JKO 아주/MAG 길/VA 게/EC 설명/NNG 해/XSV+EC 주/VX 었/EP 지만/EC 난/VX+ETM 조금/NNG 도/JX 더/MAG 잘/MAG 알/VV 게/EC 된/VV+ETM 것/NNB 같/VA 지/EC 가/JX 않/VX 다/EF ./SF
+난/NP+JX 수영/NNG 을/JKO 하/VV 러/EC 갈/VX+ETM 생각/NNG 이/VCP 다/EF ./SF
+대통령/NNG 은/JX 정부/NNG 를/JKO 조직/NNG 했/XSV+EP 다/EF ./SF
+눈/NNG 때문/NNB 에/JKB 외부/NNG 세계/NNG 와/JKB 의/JKG 소통/NNG 이/JKS 사흘/NNG 동안/NNG 단절/NNG 되/XSV 었/EP 다/EF ./SF
+난/NP+JX 목/NNG 이/JKS 좀/MAG 말라/VV+EF ./SF
